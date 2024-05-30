@@ -1,0 +1,14 @@
+{
+    "Mb2": {
+        "initial_temperature": 100,
+        "power": 100,
+        "departure": "Hue,VietNam",
+        "destination": "DongHoi,VietNam"
+    },
+    "Mb4": {
+        "initial_temperature": 100,
+        "power": 100,
+        "departure": "HaNoi,VietNam",
+        "destination": "HoChiMinh,VietNam"
+    }
+}
