@@ -1,0 +1,11 @@
+### Xây dựng mô hình digital twin cho hàng không vũ trụ
+## Cài đặt
+```
+pip install -r requirements.txt
+```
+## Mở giao diện streamlit DuAn2
+```
+B1:Mở terminal
+B2:streamlit run DuAn2.py
+
+```
