@@ -1,6 +1,8 @@
 ### Xây dựng mô hình digital twin cho hàng không vũ trụ
 ## Cài đặt
 ```
+cd Duongproject-main
+```
 pip install -r requirements.txt
 ```
 ## Mở giao diện streamlit DuAn2
